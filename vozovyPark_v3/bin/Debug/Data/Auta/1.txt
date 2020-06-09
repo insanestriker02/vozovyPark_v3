@@ -1,0 +1,6 @@
+ID: 1
+znacka: Škoda
+model: Octavia
+typ: osobní
+spotreba na 100km: 4l
+dalsi info: uahdgaljshgdfkjsahdgfljksadjhflkasjhflkasjhflkasdjhflaskdjhfalskjfhaslkdjfhasdkljfhaslkdjhfaklsdjhflkasjdhflaksjdhflkasjhdflkasjhdfklasjhdlkfjahslkhjf

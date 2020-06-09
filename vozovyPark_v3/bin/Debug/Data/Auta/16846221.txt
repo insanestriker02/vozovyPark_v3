@@ -1,0 +1,6 @@
+ID: 16846221
+znacka: Ferrari
+model: La Ferrari
+typ: osobní
+spotreba na 100km: 12l
+dalsi info: sportovní vůz, předváděcí vůz

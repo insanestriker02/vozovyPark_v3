@@ -1,0 +1,4 @@
+groupBox location: 175;13
+admin form size: 860;500
+user form size 912:11 08.06.202060;500
+user loc: 226;13

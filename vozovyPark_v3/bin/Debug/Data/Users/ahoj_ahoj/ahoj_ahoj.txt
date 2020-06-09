@@ -1,0 +1,4 @@
+jmeno: ahoj
+prijmeni: ahoj
+heslo: 3f3b08eca62c21d76256e6e1d0b8bf99f4efbe376f64335b72f4163a8fc50dba
+lastlog: 09.06.2020 16:29:38
